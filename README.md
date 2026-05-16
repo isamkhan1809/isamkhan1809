@@ -102,8 +102,9 @@ Developed an AI-powered fitness recommendation engine using classification, K-me
 
 ---
 
-## 📜 Certifications (In Progress)
+## 📜 Certifications
 
+- ✅ **Google AI Essentials** — *Google* *(May 2026)*
 - 🟡 **AWS Certified** *(in training)*
 - 🟡 **Microsoft Azure Certified** *(in training)*
 - 🟡 **Google Cloud Certified** *(in training)*
