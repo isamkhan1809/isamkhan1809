@@ -22,7 +22,10 @@
 <a href="https://github.com/isamkhan1809" target="_blank">
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub"/>
 </a>
-<img src="https://img.shields.io/badge/-London%2C%20UK-00D9FF?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=000000" alt="Location"/>
+<a href="https://isamkhan.com" target="_blank">
+  <img src="https://img.shields.io/badge/-isamkhan.com-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=000000" alt="Website"/>
+</a>
+<img src="https://img.shields.io/badge/-London%2C%20UK-FF6B6B?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=000000" alt="Location"/>
 
 </div>
 
@@ -31,17 +34,13 @@
 ### <img src="https://media.giphy.com/media/WUlplcMpOHTio/giphy.gif" width="40"> About Me
 
 <div align="center">
-
-```
-🤖  Junior AI Engineer @ Firemind
-🎓  BSc Computer Science & AI — Brunel University London
-🔭  Building MCP servers, agentic workflows & synthetic data pipelines
-🌱  Training for AWS | Azure | Google Cloud | Anthropic Claude Architect
-🎯  Targeting AI/ML Engineering & Generative AI roles
-💬  Ask me about: LLMs, fine-tuning, MCP, agentic AI, cloud pipelines
-📍  London, UK
-```
-
+  <p>🤖 &nbsp;<strong>Junior AI Engineer @ Firemind</strong></p>
+  <p>🎓 &nbsp;BSc Computer Science & AI — Brunel University London</p>
+  <p>🔭 &nbsp;Building MCP servers, agentic workflows & synthetic data pipelines</p>
+  <p>🌱 &nbsp;Training for AWS | Azure | Google Cloud | Anthropic Claude Architect</p>
+  <p>🎯 &nbsp;Targeting AI/ML Engineering & Generative AI roles</p>
+  <p>💬 &nbsp;Ask me about: LLMs, fine-tuning, MCP, agentic AI, cloud pipelines</p>
+  <p>🌐 &nbsp;<a href="https://isamkhan.com" target="_blank">isamkhan.com</a> &nbsp;|&nbsp; 📍 London, UK</p>
 </div>
 
 ---
